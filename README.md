@@ -1,9 +1,6 @@
 # Personal News
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/9f621401-5ce2-40f1-9511-533f9926c456/deploy-status)](https://app.netlify.com/sites/news-app-ishreyash/deploys)
 [![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)](https://github.com/ishre-yash/news-app/blob/main/LICENSE)
-
-<h1><a href="https://news-app-ishreyash.netlify.app/">LIVE DEMO</a></h1>
 
 ## Features
 
